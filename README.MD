@@ -13,9 +13,8 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 
 ## Screenshots below:
-![postman request output](screenshots/allrecords.png)
-![postman request output](screenshots/postman.png)
-![postman request output](screenshots/get.png)
+![postman request output](screenshots/postman1.png)
+![postman request output](screenshots/sql.png)
 
 ### Project Description
 This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL, and Postman
