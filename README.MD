@@ -1,6 +1,7 @@
 
 ## Screenshots below:
 * database ![postman request output](screenshots/allrecords.png)
+* homepage ![postman request output](screenshots/homepage.png) 
 * deleted ![postman request output](screenshots/delete.png)
 * postman ![postman request output](screenshots/postman.png)
 * get ![postman request output](screenshots/get.png)
